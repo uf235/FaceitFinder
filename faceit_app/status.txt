@@ -1,0 +1,12 @@
+# userid name uniqueid connected ping loss state rate
+# 3 2 "Sparkyy" STEAM_1:1:121107901 00:44 47 0 active 786432
+# 6 5 "BlaZe" STEAM_1:1:130224991 00:44 31 0 active 786432
+# 7 6 "Sommerw1nd" STEAM_1:1:244051322 00:44 34 0 active 196608
+# 8 7 "Maximus" STEAM_1:0:440480000 00:44 44 0 active 20480
+# 9 8 "SquecKy" STEAM_1:1:119531588 00:44 66 0 active 196608
+# 10 9 "Luc" STEAM_1:0:8961508 00:44 61 0 active 786432wdw
+# 11 10 "Kr4zzed" STEAM_1:1:485070342 00:44 48 0 active 786432
+# 12 11 "M0nCHu ッ" STEAM_1:0:23793861 00:44 79 0 active 786432
+# 13 12 "❤MaTtYxD❤" STEAM_1:0:454707917 00:44 84 0 active 786432
+# 14 13 "𝓐𝓬𝓴𝓮𝓻" STEAM_1:1:101841244 00:44 62 0 active 196608
+#end
