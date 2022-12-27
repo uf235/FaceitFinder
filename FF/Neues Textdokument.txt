@@ -1,0 +1,1 @@
+pyinstaller -F -w --uac-admin -i "Faceit_Icon.ico" Faceitfinder.py
