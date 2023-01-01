@@ -1,0 +1,23 @@
+01/01/2023 08:51:44 PM Windows was successfully build
+01/01/2023 08:52:00 PM Widgets from previouse run got destroyed
+01/01/2023 08:52:00 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/01/2023 08:52:01 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198202481531 HTTP/1.1" 200 None
+01/01/2023 08:52:01 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/01/2023 08:52:02 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198220715711 HTTP/1.1" 200 None
+01/01/2023 08:52:02 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/01/2023 08:52:03 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198448368373 HTTP/1.1" 200 None
+01/01/2023 08:52:03 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/01/2023 08:52:03 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198841225728 HTTP/1.1" 200 None
+01/01/2023 08:52:03 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/01/2023 08:52:04 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198199328905 HTTP/1.1" 200 None
+01/01/2023 08:52:04 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/01/2023 08:52:04 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561197978188744 HTTP/1.1" 200 None
+01/01/2023 08:52:04 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/01/2023 08:52:05 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198930406413 HTTP/1.1" 200 None
+01/01/2023 08:52:05 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/01/2023 08:52:06 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198007853450 HTTP/1.1" 200 None
+01/01/2023 08:52:06 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/01/2023 08:52:06 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198869681562 HTTP/1.1" 200 None
+01/01/2023 08:52:06 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/01/2023 08:52:07 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198163948217 HTTP/1.1" 200 None
+01/01/2023 08:52:07 PM Generate dynamicly all labels and buttons

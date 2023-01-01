@@ -10,3 +10,17 @@
 # 13 12 "❤MaTtYxD❤" STEAM_1:0:454707917 00:44 84 0 active 786432
 # 14 13 "𝓐𝓬𝓴𝓮𝓻" STEAM_1:1:101841244 00:44 62 0 active 196608
 #end
+
+Einer hat kein faceit accoutn und failt deshalb
+
+# userid name uniqueid connected ping loss state rate
+#  3 2 "ART" STEAM_1:1:484513999 21:19 64 0 active 786432
+#  6 5 "Bauernbrot" STEAM_1:0:151329624 21:19 63 0 active 786432
+#  7 6 "Malcherek" STEAM_1:1:548296369 21:19 52 0 active 786432
+#  8 7 "[PPG]-Renegade" STEAM_1:1:125442889 21:19 82 0 active 196608
+#  9 8 "EiVR0iL" STEAM_1:1:146875723 21:19 65 0 active 196608
+# 10 9 "fimulya" STEAM_1:0:572735604 21:19 78 0 active 786432
+# 11 10 "240хз" STEAM_1:0:187864636 21:19 81 0 active 196608
+# 12 11 "baidarka" STEAM_1:1:232553128 21:19 80 0 active 786432
+# 13 12 "Rob𐂃𐂃" STEAM_1:1:124119695 21:19 68 0 active 196608
+# 14 13 "CFC_SPA" STEAM_1:0:85875159 21:18 89 0 active 786432

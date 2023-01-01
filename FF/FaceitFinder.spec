@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['Faceitfinder.py'],
+    ['FaceitFinder.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -28,7 +28,7 @@ exe = EXE(
     a.zipfiles,
     a.datas,
     [],
-    name='Faceitfinder',
+    name='FaceitFinder',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
@@ -41,6 +41,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    uac_admin=True,
     icon=['Faceit_Icon.ico'],
 )
