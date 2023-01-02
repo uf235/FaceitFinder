@@ -1,6 +1,6 @@
 Name "FaceitFinderInstaller-v1.0"
 OutFile "FaceitFinderInstaller-v1.0.exe"
-InstallDir $$PROGRAMFILES64\FaceitFinder
+InstallDir $PROGRAMFILES64\FaceitFinder
 
 RequestExecutionLevel admin
 
@@ -9,14 +9,15 @@ Section
     # ouput path
     SetOutPath $INSTDIR
     # Files inlcuded to the ouput path
-    FILE C:\Users\Henri\Desktop\FaceitFinder\FF\dist\FaceitFinder.exe
-    FILE C:\Users\Henri\Desktop\FaceitFinder\FF\dist\Faceit_Icon.ico
-
+    #FILE C:\Users\Henri\Desktop\FaceitFinder\FF\dist\FaceitFinder.exe
+    #FILE C:\Users\Henri\Desktop\FaceitFinder\FF\dist\Faceit_Icon.ico
+    FILE /r C:\Users\Henri\Desktop\FaceitFinder\FF\dist
+    FILE /r C:\Users\Henri\Desktop\FaceitFinder\FF\build
     
     # Create uninstaller.exe
     WriteUninstaller $INSTDIR\unistaller.exe
     # Create a shortcut
-    CreateShortCut "$DESKTOP\FaceitFinder.lnk" "$INSTDIR\FaceitFinder.exe"
+    CreateShortCut "$DESKTOP\FaceitFinder.lnk" "$INSTDIR\dist\FaceitFinder.exe"
 SectionEnd
 
 # Uninstall section
