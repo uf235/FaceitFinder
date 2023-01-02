@@ -1,6 +1,6 @@
 Name "FaceitFinderInstaller-v1.0"
 OutFile "FaceitFinderInstaller-v1.0.exe"
-InstallDir $DOCUMENTS\FaceitFinder
+InstallDir $$PROGRAMFILES64\FaceitFinder
 
 RequestExecutionLevel admin
 
