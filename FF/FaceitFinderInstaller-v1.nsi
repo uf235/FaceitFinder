@@ -1,7 +1,8 @@
-Name "FaceitFinderInstaller-v1"
-OutFile "FaceitFinderInstaller-v1.exe"
+Name "FaceitFinderInstaller-v1.0"
+OutFile "FaceitFinderInstaller-v1.0.exe"
 InstallDir $DOCUMENTS\FaceitFinder
 
+RequestExecutionLevel admin
 
 # Default sections
 Section
@@ -15,7 +16,7 @@ Section
     # Create uninstaller.exe
     WriteUninstaller $INSTDIR\unistaller.exe
     # Create a shortcut
-    CreateShortCut "$DESKTOP\FaceitFinder.lnk" "$INSTDIR\dist\FaceitFinder.exe"
+    CreateShortCut "$DESKTOP\FaceitFinder.lnk" "$INSTDIR\FaceitFinder.exe"
 SectionEnd
 
 # Uninstall section
