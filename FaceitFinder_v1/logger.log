@@ -1,0 +1,1068 @@
+01/02/2023 04:40:47 PM Logger was successfully created
+01/02/2023 04:40:47 PM Window was successfully build
+01/02/2023 04:40:49 PM Try to destroy previouse widgets
+01/02/2023 04:40:49 PM Widgets from previouse run got destroyed
+01/02/2023 04:40:49 PM Try to check whether a player is marked as friend
+01/02/2023 04:40:49 PM Players were found
+01/02/2023 04:40:49 PM Try to get faceit data for each player
+01/02/2023 04:40:49 PM Try to convert steamid to steamid64
+01/02/2023 04:40:49 PM Converted steamid to steamid64
+01/02/2023 04:40:49 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:40:50 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198262924976 HTTP/1.1" 200 None
+01/02/2023 04:40:50 PM Try to convert steamid to steamid64
+01/02/2023 04:40:50 PM Converted steamid to steamid64
+01/02/2023 04:40:50 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:40:50 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198069116345 HTTP/1.1" 404 None
+01/02/2023 04:40:50 PM Player with no faceit account was found. Elo got set to 0
+01/02/2023 04:40:50 PM Try to convert steamid to steamid64
+01/02/2023 04:40:50 PM Converted steamid to steamid64
+01/02/2023 04:40:50 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:40:52 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198289336306 HTTP/1.1" 200 None
+01/02/2023 04:40:52 PM Try to convert steamid to steamid64
+01/02/2023 04:40:52 PM Converted steamid to steamid64
+01/02/2023 04:40:52 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:40:52 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199224644363 HTTP/1.1" 404 None
+01/02/2023 04:40:52 PM Player with no faceit account was found. Elo got set to 0
+01/02/2023 04:40:52 PM Try to convert steamid to steamid64
+01/02/2023 04:40:52 PM Converted steamid to steamid64
+01/02/2023 04:40:52 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:40:53 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198376616673 HTTP/1.1" 200 None
+01/02/2023 04:40:53 PM Try to convert steamid to steamid64
+01/02/2023 04:40:53 PM Converted steamid to steamid64
+01/02/2023 04:40:53 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:40:53 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199400867383 HTTP/1.1" 404 None
+01/02/2023 04:40:53 PM Player with no faceit account was found. Elo got set to 0
+01/02/2023 04:40:53 PM Try to convert steamid to steamid64
+01/02/2023 04:40:53 PM Converted steamid to steamid64
+01/02/2023 04:40:53 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:40:54 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199426475615 HTTP/1.1" 404 None
+01/02/2023 04:40:54 PM Player with no faceit account was found. Elo got set to 0
+01/02/2023 04:40:54 PM Try to convert steamid to steamid64
+01/02/2023 04:40:54 PM Converted steamid to steamid64
+01/02/2023 04:40:54 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:40:54 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199397846531 HTTP/1.1" 200 None
+01/02/2023 04:40:54 PM Try to convert steamid to steamid64
+01/02/2023 04:40:54 PM Converted steamid to steamid64
+01/02/2023 04:40:54 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:40:55 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198814185680 HTTP/1.1" 404 None
+01/02/2023 04:40:55 PM Player with no faceit account was found. Elo got set to 0
+01/02/2023 04:40:55 PM Try to convert steamid to steamid64
+01/02/2023 04:40:55 PM Converted steamid to steamid64
+01/02/2023 04:40:55 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:40:56 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199159353400 HTTP/1.1" 200 None
+01/02/2023 04:40:56 PM Try to create all labels and buttons dynamicly
+01/02/2023 04:40:56 PM All labels and buttons got successfully created
+01/02/2023 04:45:51 PM Try to destroy previouse widgets
+01/02/2023 04:45:51 PM Widgets from previouse run got destroyed
+01/02/2023 04:45:51 PM Try to check whether a player is marked as friend
+01/02/2023 04:45:51 PM Players were found
+01/02/2023 04:45:51 PM Try to get faceit data for each player
+01/02/2023 04:45:51 PM Try to convert steamid to steamid64
+01/02/2023 04:45:51 PM Converted steamid to steamid64
+01/02/2023 04:45:51 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:45:52 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198199987223 HTTP/1.1" 200 None
+01/02/2023 04:45:52 PM Try to convert steamid to steamid64
+01/02/2023 04:45:52 PM Converted steamid to steamid64
+01/02/2023 04:45:52 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:45:53 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198069446322 HTTP/1.1" 200 None
+01/02/2023 04:45:53 PM Try to convert steamid to steamid64
+01/02/2023 04:45:53 PM Converted steamid to steamid64
+01/02/2023 04:45:53 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:45:54 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198032274902 HTTP/1.1" 200 None
+01/02/2023 04:45:54 PM Try to convert steamid to steamid64
+01/02/2023 04:45:54 PM Converted steamid to steamid64
+01/02/2023 04:45:54 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:45:54 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198054411181 HTTP/1.1" 200 None
+01/02/2023 04:45:54 PM Try to convert steamid to steamid64
+01/02/2023 04:45:54 PM Converted steamid to steamid64
+01/02/2023 04:45:54 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:45:55 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198098661525 HTTP/1.1" 200 None
+01/02/2023 04:45:55 PM Try to convert steamid to steamid64
+01/02/2023 04:45:55 PM Converted steamid to steamid64
+01/02/2023 04:45:55 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:45:56 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198231990556 HTTP/1.1" 200 None
+01/02/2023 04:45:56 PM Try to convert steamid to steamid64
+01/02/2023 04:45:56 PM Converted steamid to steamid64
+01/02/2023 04:45:56 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:45:56 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198067379412 HTTP/1.1" 200 None
+01/02/2023 04:45:56 PM Try to convert steamid to steamid64
+01/02/2023 04:45:56 PM Converted steamid to steamid64
+01/02/2023 04:45:56 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:45:57 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561197991843740 HTTP/1.1" 200 None
+01/02/2023 04:45:57 PM Try to convert steamid to steamid64
+01/02/2023 04:45:57 PM Converted steamid to steamid64
+01/02/2023 04:45:57 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:45:57 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198354669308 HTTP/1.1" 200 None
+01/02/2023 04:45:57 PM Try to convert steamid to steamid64
+01/02/2023 04:45:57 PM Converted steamid to steamid64
+01/02/2023 04:45:57 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:45:58 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198277348710 HTTP/1.1" 200 None
+01/02/2023 04:45:58 PM Try to create all labels and buttons dynamicly
+01/02/2023 04:45:58 PM All labels and buttons got successfully created
+01/03/2023 07:41:37 PM Logger was successfully created
+01/03/2023 07:41:37 PM Window was successfully build
+01/03/2023 07:41:38 PM Try to destroy previouse widgets
+01/03/2023 07:41:38 PM Widgets from previouse run got destroyed
+01/03/2023 07:41:38 PM Try to check whether a player is marked as friend
+01/03/2023 07:41:38 PM Players were found
+01/03/2023 07:41:38 PM Try to get faceit data for each player
+01/03/2023 07:41:38 PM Try to convert steamid to steamid64
+01/03/2023 07:41:38 PM Converted steamid to steamid64
+01/03/2023 07:41:38 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/03/2023 07:41:39 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198262924976 HTTP/1.1" 200 None
+01/03/2023 07:41:39 PM Try to convert steamid to steamid64
+01/03/2023 07:41:39 PM Converted steamid to steamid64
+01/03/2023 07:41:39 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/03/2023 07:41:40 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199248632753 HTTP/1.1" 200 None
+01/03/2023 07:41:40 PM Try to convert steamid to steamid64
+01/03/2023 07:41:40 PM Converted steamid to steamid64
+01/03/2023 07:41:40 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/03/2023 07:41:40 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198069116345 HTTP/1.1" 404 None
+01/03/2023 07:41:40 PM Player with no faceit account was found. Elo got set to 0
+01/03/2023 07:41:40 PM Try to convert steamid to steamid64
+01/03/2023 07:41:40 PM Converted steamid to steamid64
+01/03/2023 07:41:40 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/03/2023 07:41:41 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198918691754 HTTP/1.1" 200 None
+01/03/2023 07:41:41 PM Try to convert steamid to steamid64
+01/03/2023 07:41:41 PM Converted steamid to steamid64
+01/03/2023 07:41:41 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/03/2023 07:41:42 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198224730196 HTTP/1.1" 200 None
+01/03/2023 07:41:42 PM Try to convert steamid to steamid64
+01/03/2023 07:41:42 PM Converted steamid to steamid64
+01/03/2023 07:41:42 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/03/2023 07:41:43 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199368810395 HTTP/1.1" 200 None
+01/03/2023 07:41:43 PM Try to convert steamid to steamid64
+01/03/2023 07:41:43 PM Converted steamid to steamid64
+01/03/2023 07:41:43 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/03/2023 07:41:43 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199383083575 HTTP/1.1" 200 None
+01/03/2023 07:41:43 PM Try to convert steamid to steamid64
+01/03/2023 07:41:43 PM Converted steamid to steamid64
+01/03/2023 07:41:43 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/03/2023 07:41:44 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199012246792 HTTP/1.1" 200 None
+01/03/2023 07:41:44 PM Try to convert steamid to steamid64
+01/03/2023 07:41:44 PM Converted steamid to steamid64
+01/03/2023 07:41:44 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/03/2023 07:41:44 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199073472577 HTTP/1.1" 200 None
+01/03/2023 07:41:44 PM Try to convert steamid to steamid64
+01/03/2023 07:41:44 PM Converted steamid to steamid64
+01/03/2023 07:41:44 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/03/2023 07:41:45 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198033981490 HTTP/1.1" 404 None
+01/03/2023 07:41:45 PM Player with no faceit account was found. Elo got set to 0
+01/03/2023 07:41:45 PM Try to create all labels and buttons dynamicly
+01/03/2023 07:41:45 PM All labels and buttons got successfully created
+01/03/2023 08:10:22 PM Try to destroy previouse widgets
+01/03/2023 08:10:22 PM Widgets from previouse run got destroyed
+01/03/2023 08:10:22 PM Try to check whether a player is marked as friend
+01/03/2023 08:10:22 PM Players were found
+01/03/2023 08:10:22 PM Try to get faceit data for each player
+01/03/2023 08:10:22 PM Try to convert steamid to steamid64
+01/03/2023 08:10:22 PM Converted steamid to steamid64
+01/03/2023 08:10:22 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/03/2023 08:10:22 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198107210567 HTTP/1.1" 200 None
+01/03/2023 08:10:22 PM Try to convert steamid to steamid64
+01/03/2023 08:10:22 PM Converted steamid to steamid64
+01/03/2023 08:10:22 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/03/2023 08:10:23 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198218798280 HTTP/1.1" 200 None
+01/03/2023 08:10:23 PM Try to convert steamid to steamid64
+01/03/2023 08:10:23 PM Converted steamid to steamid64
+01/03/2023 08:10:23 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/03/2023 08:10:23 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198069116345 HTTP/1.1" 404 None
+01/03/2023 08:10:23 PM Player with no faceit account was found. Elo got set to 0
+01/03/2023 08:10:23 PM Try to convert steamid to steamid64
+01/03/2023 08:10:23 PM Converted steamid to steamid64
+01/03/2023 08:10:23 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/03/2023 08:10:24 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198929328513 HTTP/1.1" 200 None
+01/03/2023 08:10:24 PM Try to convert steamid to steamid64
+01/03/2023 08:10:24 PM Converted steamid to steamid64
+01/03/2023 08:10:24 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/03/2023 08:10:24 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198262924976 HTTP/1.1" 200 None
+01/03/2023 08:10:24 PM Try to convert steamid to steamid64
+01/03/2023 08:10:24 PM Converted steamid to steamid64
+01/03/2023 08:10:24 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/03/2023 08:10:25 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198107338731 HTTP/1.1" 404 None
+01/03/2023 08:10:25 PM Player with no faceit account was found. Elo got set to 0
+01/03/2023 08:10:25 PM Try to convert steamid to steamid64
+01/03/2023 08:10:25 PM Converted steamid to steamid64
+01/03/2023 08:10:25 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/03/2023 08:10:26 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198292498423 HTTP/1.1" 200 None
+01/03/2023 08:10:26 PM Try to convert steamid to steamid64
+01/03/2023 08:10:26 PM Converted steamid to steamid64
+01/03/2023 08:10:26 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/03/2023 08:10:26 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198951118622 HTTP/1.1" 200 None
+01/03/2023 08:10:26 PM Try to convert steamid to steamid64
+01/03/2023 08:10:26 PM Converted steamid to steamid64
+01/03/2023 08:10:26 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/03/2023 08:10:27 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198930173035 HTTP/1.1" 200 None
+01/03/2023 08:10:27 PM Try to convert steamid to steamid64
+01/03/2023 08:10:27 PM Converted steamid to steamid64
+01/03/2023 08:10:27 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/03/2023 08:10:27 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199415980022 HTTP/1.1" 200 None
+01/03/2023 08:10:27 PM Try to create all labels and buttons dynamicly
+01/03/2023 08:10:27 PM All labels and buttons got successfully created
+01/04/2023 05:11:23 PM Logger was successfully created
+01/04/2023 05:11:23 PM Window was successfully build
+01/04/2023 05:11:25 PM Try to destroy previouse widgets
+01/04/2023 05:11:25 PM Widgets from previouse run got destroyed
+01/04/2023 05:11:25 PM Try to check whether a player is marked as friend
+01/04/2023 05:11:25 PM Players were found
+01/04/2023 05:11:25 PM Try to get faceit data for each player
+01/04/2023 05:11:25 PM Try to convert steamid to steamid64
+01/04/2023 05:11:25 PM Converted steamid to steamid64
+01/04/2023 05:11:25 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 05:11:26 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198438959860 HTTP/1.1" 200 None
+01/04/2023 05:11:26 PM Try to convert steamid to steamid64
+01/04/2023 05:11:26 PM Converted steamid to steamid64
+01/04/2023 05:11:26 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 05:11:26 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198069116345 HTTP/1.1" 404 None
+01/04/2023 05:11:26 PM Player with no faceit account was found. Elo got set to 0
+01/04/2023 05:11:26 PM Try to convert steamid to steamid64
+01/04/2023 05:11:26 PM Converted steamid to steamid64
+01/04/2023 05:11:26 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 05:11:27 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198107210567 HTTP/1.1" 200 None
+01/04/2023 05:11:27 PM Try to convert steamid to steamid64
+01/04/2023 05:11:27 PM Converted steamid to steamid64
+01/04/2023 05:11:27 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 05:11:27 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198729962141 HTTP/1.1" 200 None
+01/04/2023 05:11:27 PM Try to convert steamid to steamid64
+01/04/2023 05:11:27 PM Converted steamid to steamid64
+01/04/2023 05:11:28 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 05:11:28 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198262924976 HTTP/1.1" 200 None
+01/04/2023 05:11:28 PM Try to convert steamid to steamid64
+01/04/2023 05:11:28 PM Converted steamid to steamid64
+01/04/2023 05:11:28 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 05:11:29 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198152358722 HTTP/1.1" 200 None
+01/04/2023 05:11:29 PM Try to convert steamid to steamid64
+01/04/2023 05:11:29 PM Converted steamid to steamid64
+01/04/2023 05:11:29 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 05:11:29 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199260142233 HTTP/1.1" 200 None
+01/04/2023 05:11:29 PM Try to convert steamid to steamid64
+01/04/2023 05:11:29 PM Converted steamid to steamid64
+01/04/2023 05:11:29 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 05:11:30 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198014687798 HTTP/1.1" 200 None
+01/04/2023 05:11:30 PM Try to convert steamid to steamid64
+01/04/2023 05:11:30 PM Converted steamid to steamid64
+01/04/2023 05:11:30 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 05:11:31 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198918687712 HTTP/1.1" 200 None
+01/04/2023 05:11:31 PM Try to convert steamid to steamid64
+01/04/2023 05:11:31 PM Converted steamid to steamid64
+01/04/2023 05:11:31 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 05:11:31 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198312810870 HTTP/1.1" 200 None
+01/04/2023 05:11:31 PM Try to create all labels and buttons dynamicly
+01/04/2023 05:11:31 PM All labels and buttons got successfully created
+01/04/2023 05:11:36 PM Try to destroy previouse widgets
+01/04/2023 05:11:36 PM Widgets from previouse run got destroyed
+01/04/2023 05:11:36 PM Try to check whether a player is marked as friend
+01/04/2023 05:11:36 PM Players were found
+01/04/2023 05:11:36 PM Try to get faceit data for each player
+01/04/2023 05:11:36 PM Try to convert steamid to steamid64
+01/04/2023 05:11:36 PM Converted steamid to steamid64
+01/04/2023 05:11:36 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 05:11:37 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198438959860 HTTP/1.1" 200 None
+01/04/2023 05:11:37 PM Try to convert steamid to steamid64
+01/04/2023 05:11:37 PM Converted steamid to steamid64
+01/04/2023 05:11:37 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 05:11:38 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198069116345 HTTP/1.1" 404 None
+01/04/2023 05:11:38 PM Player with no faceit account was found. Elo got set to 0
+01/04/2023 05:11:38 PM Try to convert steamid to steamid64
+01/04/2023 05:11:38 PM Converted steamid to steamid64
+01/04/2023 05:11:38 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 05:11:39 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198107210567 HTTP/1.1" 200 None
+01/04/2023 05:11:39 PM Try to convert steamid to steamid64
+01/04/2023 05:11:39 PM Converted steamid to steamid64
+01/04/2023 05:11:39 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 05:11:40 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198729962141 HTTP/1.1" 200 None
+01/04/2023 05:11:40 PM Try to convert steamid to steamid64
+01/04/2023 05:11:40 PM Converted steamid to steamid64
+01/04/2023 05:11:40 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 05:11:40 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198262924976 HTTP/1.1" 200 None
+01/04/2023 05:11:40 PM Try to convert steamid to steamid64
+01/04/2023 05:11:40 PM Converted steamid to steamid64
+01/04/2023 05:11:40 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 05:11:41 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198152358722 HTTP/1.1" 200 None
+01/04/2023 05:11:41 PM Try to convert steamid to steamid64
+01/04/2023 05:11:41 PM Converted steamid to steamid64
+01/04/2023 05:11:41 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 05:11:41 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199260142233 HTTP/1.1" 200 None
+01/04/2023 05:11:41 PM Try to convert steamid to steamid64
+01/04/2023 05:11:41 PM Converted steamid to steamid64
+01/04/2023 05:11:41 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 05:11:42 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198014687798 HTTP/1.1" 200 None
+01/04/2023 05:11:42 PM Try to convert steamid to steamid64
+01/04/2023 05:11:42 PM Converted steamid to steamid64
+01/04/2023 05:11:42 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 05:11:43 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198918687712 HTTP/1.1" 200 None
+01/04/2023 05:11:43 PM Try to convert steamid to steamid64
+01/04/2023 05:11:43 PM Converted steamid to steamid64
+01/04/2023 05:11:43 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 05:11:43 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198312810870 HTTP/1.1" 200 None
+01/04/2023 05:11:43 PM Try to create all labels and buttons dynamicly
+01/04/2023 05:11:43 PM All labels and buttons got successfully created
+01/04/2023 11:43:54 PM Logger was successfully created
+01/04/2023 11:43:54 PM Window was successfully build
+01/04/2023 11:43:56 PM Try to destroy previouse widgets
+01/04/2023 11:43:56 PM Widgets from previouse run got destroyed
+01/04/2023 11:43:56 PM Try to check whether a player is marked as friend
+01/04/2023 11:43:56 PM Players were found
+01/04/2023 11:43:56 PM Try to get faceit data for each player
+01/04/2023 11:43:56 PM Try to convert steamid to steamid64
+01/04/2023 11:43:56 PM Converted steamid to steamid64
+01/04/2023 11:43:56 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 11:43:57 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198107210567 HTTP/1.1" 200 None
+01/04/2023 11:43:57 PM Try to convert steamid to steamid64
+01/04/2023 11:43:57 PM Converted steamid to steamid64
+01/04/2023 11:43:57 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 11:43:57 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199018797200 HTTP/1.1" 404 None
+01/04/2023 11:43:57 PM Player with no faceit account was found. Elo got set to 0
+01/04/2023 11:43:57 PM Try to convert steamid to steamid64
+01/04/2023 11:43:57 PM Converted steamid to steamid64
+01/04/2023 11:43:57 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 11:43:58 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198262924976 HTTP/1.1" 200 None
+01/04/2023 11:43:58 PM Try to convert steamid to steamid64
+01/04/2023 11:43:58 PM Converted steamid to steamid64
+01/04/2023 11:43:58 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 11:43:58 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198069116345 HTTP/1.1" 404 None
+01/04/2023 11:43:58 PM Player with no faceit account was found. Elo got set to 0
+01/04/2023 11:43:58 PM Try to convert steamid to steamid64
+01/04/2023 11:43:58 PM Converted steamid to steamid64
+01/04/2023 11:43:58 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 11:43:59 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199089049504 HTTP/1.1" 404 None
+01/04/2023 11:43:59 PM Player with no faceit account was found. Elo got set to 0
+01/04/2023 11:43:59 PM Try to convert steamid to steamid64
+01/04/2023 11:43:59 PM Converted steamid to steamid64
+01/04/2023 11:43:59 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 11:43:59 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199110380742 HTTP/1.1" 404 None
+01/04/2023 11:43:59 PM Player with no faceit account was found. Elo got set to 0
+01/04/2023 11:43:59 PM Try to convert steamid to steamid64
+01/04/2023 11:43:59 PM Converted steamid to steamid64
+01/04/2023 11:43:59 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 11:44:00 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198192756909 HTTP/1.1" 200 None
+01/04/2023 11:44:00 PM Try to convert steamid to steamid64
+01/04/2023 11:44:00 PM Converted steamid to steamid64
+01/04/2023 11:44:00 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 11:44:00 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198128570435 HTTP/1.1" 404 None
+01/04/2023 11:44:00 PM Player with no faceit account was found. Elo got set to 0
+01/04/2023 11:44:00 PM Try to convert steamid to steamid64
+01/04/2023 11:44:00 PM Converted steamid to steamid64
+01/04/2023 11:44:00 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 11:44:01 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198412646280 HTTP/1.1" 404 None
+01/04/2023 11:44:01 PM Player with no faceit account was found. Elo got set to 0
+01/04/2023 11:44:01 PM Try to convert steamid to steamid64
+01/04/2023 11:44:01 PM Converted steamid to steamid64
+01/04/2023 11:44:01 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/04/2023 11:44:01 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198128769966 HTTP/1.1" 200 None
+01/04/2023 11:44:01 PM Try to create all labels and buttons dynamicly
+01/04/2023 11:44:01 PM All labels and buttons got successfully created
+01/05/2023 12:53:38 AM Try to destroy previouse widgets
+01/05/2023 12:53:38 AM Widgets from previouse run got destroyed
+01/05/2023 12:53:38 AM Try to check whether a player is marked as friend
+01/05/2023 12:53:38 AM Players were found
+01/05/2023 12:53:38 AM Try to get faceit data for each player
+01/05/2023 12:53:38 AM Try to convert steamid to steamid64
+01/05/2023 12:53:38 AM Converted steamid to steamid64
+01/05/2023 12:53:38 AM Starting new HTTPS connection (1): open.faceit.com:443
+01/05/2023 12:53:39 AM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199018797200 HTTP/1.1" 404 None
+01/05/2023 12:53:39 AM Player with no faceit account was found. Elo got set to 0
+01/05/2023 12:53:39 AM Try to convert steamid to steamid64
+01/05/2023 12:53:39 AM Converted steamid to steamid64
+01/05/2023 12:53:39 AM Starting new HTTPS connection (1): open.faceit.com:443
+01/05/2023 12:53:39 AM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198069116345 HTTP/1.1" 404 None
+01/05/2023 12:53:39 AM Player with no faceit account was found. Elo got set to 0
+01/05/2023 12:53:39 AM Try to convert steamid to steamid64
+01/05/2023 12:53:39 AM Converted steamid to steamid64
+01/05/2023 12:53:39 AM Starting new HTTPS connection (1): open.faceit.com:443
+01/05/2023 12:53:40 AM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198128570435 HTTP/1.1" 404 None
+01/05/2023 12:53:40 AM Player with no faceit account was found. Elo got set to 0
+01/05/2023 12:53:40 AM Try to convert steamid to steamid64
+01/05/2023 12:53:40 AM Converted steamid to steamid64
+01/05/2023 12:53:40 AM Starting new HTTPS connection (1): open.faceit.com:443
+01/05/2023 12:53:41 AM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199447439433 HTTP/1.1" 404 None
+01/05/2023 12:53:41 AM Player with no faceit account was found. Elo got set to 0
+01/05/2023 12:53:41 AM Try to convert steamid to steamid64
+01/05/2023 12:53:41 AM Converted steamid to steamid64
+01/05/2023 12:53:41 AM Starting new HTTPS connection (1): open.faceit.com:443
+01/05/2023 12:53:42 AM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199464919593 HTTP/1.1" 404 None
+01/05/2023 12:53:42 AM Player with no faceit account was found. Elo got set to 0
+01/05/2023 12:53:42 AM Try to convert steamid to steamid64
+01/05/2023 12:53:42 AM Converted steamid to steamid64
+01/05/2023 12:53:42 AM Starting new HTTPS connection (1): open.faceit.com:443
+01/05/2023 12:53:43 AM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198408753978 HTTP/1.1" 200 None
+01/05/2023 12:53:43 AM Try to convert steamid to steamid64
+01/05/2023 12:53:43 AM Converted steamid to steamid64
+01/05/2023 12:53:43 AM Starting new HTTPS connection (1): open.faceit.com:443
+01/05/2023 12:53:43 AM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198262924976 HTTP/1.1" 200 None
+01/05/2023 12:53:43 AM Try to convert steamid to steamid64
+01/05/2023 12:53:43 AM Converted steamid to steamid64
+01/05/2023 12:53:43 AM Starting new HTTPS connection (1): open.faceit.com:443
+01/05/2023 12:53:44 AM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199426826012 HTTP/1.1" 200 None
+01/05/2023 12:53:44 AM Try to convert steamid to steamid64
+01/05/2023 12:53:44 AM Converted steamid to steamid64
+01/05/2023 12:53:44 AM Starting new HTTPS connection (1): open.faceit.com:443
+01/05/2023 12:53:44 AM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199365739901 HTTP/1.1" 404 None
+01/05/2023 12:53:44 AM Player with no faceit account was found. Elo got set to 0
+01/05/2023 12:53:44 AM Try to convert steamid to steamid64
+01/05/2023 12:53:44 AM Converted steamid to steamid64
+01/05/2023 12:53:44 AM Starting new HTTPS connection (1): open.faceit.com:443
+01/05/2023 12:53:45 AM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198107210567 HTTP/1.1" 200 None
+01/05/2023 12:53:45 AM Try to create all labels and buttons dynamicly
+01/05/2023 12:53:45 AM All labels and buttons got successfully created
+01/05/2023 12:53:48 AM Try to add player to friends list
+01/05/2023 12:53:48 AM Friend was added to friends.txt
+01/05/2023 12:53:50 AM Try to add player to friends list
+01/05/2023 12:53:50 AM Friend was added to friends.txt
+01/05/2023 12:53:51 AM Try to add player to friends list
+01/05/2023 12:53:51 AM Friend was added to friends.txt
+01/05/2023 12:53:51 AM Try to add player to friends list
+01/05/2023 12:53:51 AM Friend was added to friends.txt
+01/05/2023 12:53:53 AM Try to add player to friends list
+01/05/2023 12:53:53 AM Friend was added to friends.txt
+01/06/2023 05:29:03 PM Logger was successfully created
+01/06/2023 05:29:03 PM Window was successfully build
+01/06/2023 05:29:05 PM Try to destroy previouse widgets
+01/06/2023 05:29:05 PM Widgets from previouse run got destroyed
+01/06/2023 05:29:05 PM Try to check whether a player is marked as friend
+01/06/2023 05:29:05 PM Friend was found and removed from list
+01/06/2023 05:29:05 PM Friend was found and removed from list
+01/06/2023 05:29:05 PM Friend was found and removed from list
+01/06/2023 05:29:05 PM Players were found
+01/06/2023 05:29:05 PM Try to get faceit data for each player
+01/06/2023 05:29:05 PM Try to convert steamid to steamid64
+01/06/2023 05:29:05 PM Converted steamid to steamid64
+01/06/2023 05:29:05 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 05:29:06 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199428178192 HTTP/1.1" 404 None
+01/06/2023 05:29:06 PM Player with no faceit account was found. Elo got set to 0
+01/06/2023 05:29:06 PM Try to convert steamid to steamid64
+01/06/2023 05:29:06 PM Converted steamid to steamid64
+01/06/2023 05:29:06 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 05:29:07 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199401425126 HTTP/1.1" 200 None
+01/06/2023 05:29:07 PM Try to convert steamid to steamid64
+01/06/2023 05:29:07 PM Converted steamid to steamid64
+01/06/2023 05:29:07 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 05:29:08 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198024089875 HTTP/1.1" 200 None
+01/06/2023 05:29:08 PM Try to convert steamid to steamid64
+01/06/2023 05:29:08 PM Converted steamid to steamid64
+01/06/2023 05:29:08 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 05:29:08 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198354536026 HTTP/1.1" 200 None
+01/06/2023 05:29:08 PM Try to convert steamid to steamid64
+01/06/2023 05:29:08 PM Converted steamid to steamid64
+01/06/2023 05:29:08 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 05:29:09 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199384145200 HTTP/1.1" 404 None
+01/06/2023 05:29:09 PM Player with no faceit account was found. Elo got set to 0
+01/06/2023 05:29:09 PM Try to convert steamid to steamid64
+01/06/2023 05:29:09 PM Converted steamid to steamid64
+01/06/2023 05:29:09 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 05:29:10 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198318812836 HTTP/1.1" 404 None
+01/06/2023 05:29:10 PM Player with no faceit account was found. Elo got set to 0
+01/06/2023 05:29:10 PM Try to convert steamid to steamid64
+01/06/2023 05:29:10 PM Converted steamid to steamid64
+01/06/2023 05:29:10 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 05:29:11 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199235725417 HTTP/1.1" 200 None
+01/06/2023 05:29:11 PM Try to create all labels and buttons dynamicly
+01/06/2023 05:29:11 PM All labels and buttons got successfully created
+01/06/2023 05:49:49 PM Try to destroy previouse widgets
+01/06/2023 05:49:49 PM Widgets from previouse run got destroyed
+01/06/2023 05:49:49 PM Try to check whether a player is marked as friend
+01/06/2023 05:49:49 PM Friend was found and removed from list
+01/06/2023 05:49:49 PM Friend was found and removed from list
+01/06/2023 05:49:49 PM Friend was found and removed from list
+01/06/2023 05:49:49 PM Players were found
+01/06/2023 05:49:49 PM Try to get faceit data for each player
+01/06/2023 05:49:49 PM Try to convert steamid to steamid64
+01/06/2023 05:49:49 PM Converted steamid to steamid64
+01/06/2023 05:49:49 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 05:49:50 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199438474131 HTTP/1.1" 404 None
+01/06/2023 05:49:50 PM Player with no faceit account was found. Elo got set to 0
+01/06/2023 05:49:50 PM Try to convert steamid to steamid64
+01/06/2023 05:49:50 PM Converted steamid to steamid64
+01/06/2023 05:49:50 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 05:49:51 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199435794388 HTTP/1.1" 200 None
+01/06/2023 05:49:51 PM Try to convert steamid to steamid64
+01/06/2023 05:49:51 PM Converted steamid to steamid64
+01/06/2023 05:49:51 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 05:49:51 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199121335412 HTTP/1.1" 200 None
+01/06/2023 05:49:51 PM Try to convert steamid to steamid64
+01/06/2023 05:49:51 PM Converted steamid to steamid64
+01/06/2023 05:49:51 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 05:49:52 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199085375707 HTTP/1.1" 200 None
+01/06/2023 05:49:52 PM Try to convert steamid to steamid64
+01/06/2023 05:49:52 PM Converted steamid to steamid64
+01/06/2023 05:49:52 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 05:49:53 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199455217037 HTTP/1.1" 404 None
+01/06/2023 05:49:53 PM Player with no faceit account was found. Elo got set to 0
+01/06/2023 05:49:53 PM Try to convert steamid to steamid64
+01/06/2023 05:49:53 PM Converted steamid to steamid64
+01/06/2023 05:49:53 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 05:49:54 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199132244325 HTTP/1.1" 200 None
+01/06/2023 05:49:54 PM Try to convert steamid to steamid64
+01/06/2023 05:49:54 PM Converted steamid to steamid64
+01/06/2023 05:49:54 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 05:49:54 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199197186555 HTTP/1.1" 200 None
+01/06/2023 05:49:54 PM Try to create all labels and buttons dynamicly
+01/06/2023 05:49:54 PM All labels and buttons got successfully created
+01/06/2023 09:56:40 PM Logger was successfully created
+01/06/2023 09:56:40 PM Window was successfully build
+01/06/2023 09:56:41 PM Try to destroy previouse widgets
+01/06/2023 09:56:41 PM Widgets from previouse run got destroyed
+01/06/2023 09:56:41 PM Try to check whether a player is marked as friend
+01/06/2023 09:56:41 PM Friend was found and removed from list
+01/06/2023 09:56:41 PM Friend was found and removed from list
+01/06/2023 09:56:41 PM Friend was found and removed from list
+01/06/2023 09:56:41 PM Players were found
+01/06/2023 09:56:41 PM Try to get faceit data for each player
+01/06/2023 09:56:41 PM Try to convert steamid to steamid64
+01/06/2023 09:56:41 PM Converted steamid to steamid64
+01/06/2023 09:56:41 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 09:56:42 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199053220229 HTTP/1.1" 200 None
+01/06/2023 09:56:42 PM Try to convert steamid to steamid64
+01/06/2023 09:56:42 PM Converted steamid to steamid64
+01/06/2023 09:56:42 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 09:56:43 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198855267683 HTTP/1.1" 200 None
+01/06/2023 09:56:43 PM Try to convert steamid to steamid64
+01/06/2023 09:56:43 PM Converted steamid to steamid64
+01/06/2023 09:56:43 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 09:56:44 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198971124171 HTTP/1.1" 200 None
+01/06/2023 09:56:44 PM Try to convert steamid to steamid64
+01/06/2023 09:56:44 PM Converted steamid to steamid64
+01/06/2023 09:56:44 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 09:56:44 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198271786919 HTTP/1.1" 200 None
+01/06/2023 09:56:44 PM Try to convert steamid to steamid64
+01/06/2023 09:56:44 PM Converted steamid to steamid64
+01/06/2023 09:56:44 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 09:56:45 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199250291995 HTTP/1.1" 404 None
+01/06/2023 09:56:45 PM Player with no faceit account was found. Elo got set to 0
+01/06/2023 09:56:45 PM Try to convert steamid to steamid64
+01/06/2023 09:56:45 PM Converted steamid to steamid64
+01/06/2023 09:56:45 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 09:56:46 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199152398586 HTTP/1.1" 200 None
+01/06/2023 09:56:46 PM Try to convert steamid to steamid64
+01/06/2023 09:56:46 PM Converted steamid to steamid64
+01/06/2023 09:56:46 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/06/2023 09:56:46 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198200810122 HTTP/1.1" 200 None
+01/06/2023 09:56:46 PM Try to create all labels and buttons dynamicly
+01/06/2023 09:56:46 PM All labels and buttons got successfully created
+01/07/2023 05:11:24 PM Logger was successfully created
+01/07/2023 05:11:24 PM Window was successfully build
+01/07/2023 05:11:26 PM Try to destroy previouse widgets
+01/07/2023 05:11:26 PM Widgets from previouse run got destroyed
+01/07/2023 05:11:26 PM Try to check whether a player is marked as friend
+01/07/2023 05:11:26 PM Friend was found and removed from list
+01/07/2023 05:11:26 PM Friend was found and removed from list
+01/07/2023 05:11:26 PM Players were found
+01/07/2023 05:11:26 PM Try to get faceit data for each player
+01/07/2023 05:11:26 PM Try to convert steamid to steamid64
+01/07/2023 05:11:26 PM Converted steamid to steamid64
+01/07/2023 05:11:26 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 05:11:27 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199034052606 HTTP/1.1" 404 None
+01/07/2023 05:11:27 PM Player with no faceit account was found. Elo got set to 0
+01/07/2023 05:11:27 PM Try to convert steamid to steamid64
+01/07/2023 05:11:27 PM Converted steamid to steamid64
+01/07/2023 05:11:27 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 05:11:28 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199075243825 HTTP/1.1" 404 None
+01/07/2023 05:11:28 PM Player with no faceit account was found. Elo got set to 0
+01/07/2023 05:11:28 PM Try to convert steamid to steamid64
+01/07/2023 05:11:28 PM Converted steamid to steamid64
+01/07/2023 05:11:28 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 05:11:28 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199040927092 HTTP/1.1" 404 None
+01/07/2023 05:11:28 PM Player with no faceit account was found. Elo got set to 0
+01/07/2023 05:11:28 PM Try to convert steamid to steamid64
+01/07/2023 05:11:28 PM Converted steamid to steamid64
+01/07/2023 05:11:28 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 05:11:29 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199005538492 HTTP/1.1" 200 None
+01/07/2023 05:11:29 PM Try to convert steamid to steamid64
+01/07/2023 05:11:29 PM Converted steamid to steamid64
+01/07/2023 05:11:29 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 05:11:30 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199005798943 HTTP/1.1" 404 None
+01/07/2023 05:11:30 PM Player with no faceit account was found. Elo got set to 0
+01/07/2023 05:11:30 PM Try to convert steamid to steamid64
+01/07/2023 05:11:30 PM Converted steamid to steamid64
+01/07/2023 05:11:30 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 05:11:30 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198825564598 HTTP/1.1" 200 None
+01/07/2023 05:11:30 PM Try to convert steamid to steamid64
+01/07/2023 05:11:30 PM Converted steamid to steamid64
+01/07/2023 05:11:30 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 05:11:31 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199143680314 HTTP/1.1" 200 None
+01/07/2023 05:11:31 PM Try to convert steamid to steamid64
+01/07/2023 05:11:31 PM Converted steamid to steamid64
+01/07/2023 05:11:31 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 05:11:32 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198219482213 HTTP/1.1" 200 None
+01/07/2023 05:11:32 PM Try to create all labels and buttons dynamicly
+01/07/2023 05:11:32 PM All labels and buttons got successfully created
+01/07/2023 06:17:18 PM Try to destroy previouse widgets
+01/07/2023 06:17:18 PM Widgets from previouse run got destroyed
+01/07/2023 06:17:18 PM Try to check whether a player is marked as friend
+01/07/2023 06:17:18 PM Friend was found and removed from list
+01/07/2023 06:17:18 PM Friend was found and removed from list
+01/07/2023 06:17:18 PM Players were found
+01/07/2023 06:17:18 PM Try to get faceit data for each player
+01/07/2023 06:17:18 PM Try to convert steamid to steamid64
+01/07/2023 06:17:18 PM Converted steamid to steamid64
+01/07/2023 06:17:18 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 06:17:19 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198303062762 HTTP/1.1" 200 None
+01/07/2023 06:17:19 PM Try to convert steamid to steamid64
+01/07/2023 06:17:19 PM Converted steamid to steamid64
+01/07/2023 06:17:19 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 06:17:19 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198085610802 HTTP/1.1" 404 None
+01/07/2023 06:17:19 PM Player with no faceit account was found. Elo got set to 0
+01/07/2023 06:17:19 PM Try to convert steamid to steamid64
+01/07/2023 06:17:19 PM Converted steamid to steamid64
+01/07/2023 06:17:19 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 06:17:21 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198024750500 HTTP/1.1" 200 None
+01/07/2023 06:17:21 PM Try to convert steamid to steamid64
+01/07/2023 06:17:21 PM Converted steamid to steamid64
+01/07/2023 06:17:21 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 06:17:22 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198102337429 HTTP/1.1" 200 None
+01/07/2023 06:17:22 PM Try to convert steamid to steamid64
+01/07/2023 06:17:22 PM Converted steamid to steamid64
+01/07/2023 06:17:22 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 06:17:23 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198006833673 HTTP/1.1" 200 None
+01/07/2023 06:17:23 PM Try to convert steamid to steamid64
+01/07/2023 06:17:23 PM Converted steamid to steamid64
+01/07/2023 06:17:23 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 06:17:23 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198147371734 HTTP/1.1" 200 None
+01/07/2023 06:17:23 PM Try to convert steamid to steamid64
+01/07/2023 06:17:23 PM Converted steamid to steamid64
+01/07/2023 06:17:23 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 06:17:24 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198126673611 HTTP/1.1" 200 None
+01/07/2023 06:17:24 PM Try to convert steamid to steamid64
+01/07/2023 06:17:24 PM Converted steamid to steamid64
+01/07/2023 06:17:24 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 06:17:25 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198158400087 HTTP/1.1" 200 None
+01/07/2023 06:17:25 PM Try to create all labels and buttons dynamicly
+01/07/2023 06:17:25 PM All labels and buttons got successfully created
+01/07/2023 06:51:29 PM Try to destroy previouse widgets
+01/07/2023 06:51:29 PM Widgets from previouse run got destroyed
+01/07/2023 06:51:29 PM Try to check whether a player is marked as friend
+01/07/2023 06:51:29 PM Friend was found and removed from list
+01/07/2023 06:51:29 PM Friend was found and removed from list
+01/07/2023 06:51:29 PM Players were found
+01/07/2023 06:51:29 PM Try to get faceit data for each player
+01/07/2023 06:51:29 PM Try to convert steamid to steamid64
+01/07/2023 06:51:29 PM Converted steamid to steamid64
+01/07/2023 06:51:29 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 06:51:29 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199017828793 HTTP/1.1" 200 None
+01/07/2023 06:51:29 PM Try to convert steamid to steamid64
+01/07/2023 06:51:29 PM Converted steamid to steamid64
+01/07/2023 06:51:29 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 06:51:30 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198349240472 HTTP/1.1" 200 None
+01/07/2023 06:51:30 PM Try to convert steamid to steamid64
+01/07/2023 06:51:30 PM Converted steamid to steamid64
+01/07/2023 06:51:30 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 06:51:31 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198886922128 HTTP/1.1" 200 None
+01/07/2023 06:51:31 PM Try to convert steamid to steamid64
+01/07/2023 06:51:31 PM Converted steamid to steamid64
+01/07/2023 06:51:31 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 06:51:32 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198178889975 HTTP/1.1" 200 None
+01/07/2023 06:51:32 PM Try to convert steamid to steamid64
+01/07/2023 06:51:32 PM Converted steamid to steamid64
+01/07/2023 06:51:32 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 06:51:33 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198204849331 HTTP/1.1" 200 None
+01/07/2023 06:51:33 PM Try to convert steamid to steamid64
+01/07/2023 06:51:33 PM Converted steamid to steamid64
+01/07/2023 06:51:33 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 06:51:33 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198886644650 HTTP/1.1" 200 None
+01/07/2023 06:51:33 PM Try to convert steamid to steamid64
+01/07/2023 06:51:33 PM Converted steamid to steamid64
+01/07/2023 06:51:33 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 06:51:34 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198431565553 HTTP/1.1" 200 None
+01/07/2023 06:51:34 PM Try to convert steamid to steamid64
+01/07/2023 06:51:34 PM Converted steamid to steamid64
+01/07/2023 06:51:34 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 06:51:35 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198125653007 HTTP/1.1" 200 None
+01/07/2023 06:51:35 PM Try to create all labels and buttons dynamicly
+01/07/2023 06:51:35 PM All labels and buttons got successfully created
+01/07/2023 10:01:25 PM Try to destroy previouse widgets
+01/07/2023 10:01:25 PM Widgets from previouse run got destroyed
+01/07/2023 10:01:25 PM Try to check whether a player is marked as friend
+01/07/2023 10:01:25 PM Players were found
+01/07/2023 10:01:25 PM Try to get faceit data for each player
+01/07/2023 10:01:25 PM Try to convert steamid to steamid64
+01/07/2023 10:01:25 PM Converted steamid to steamid64
+01/07/2023 10:01:25 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 10:01:26 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198069446322 HTTP/1.1" 200 None
+01/07/2023 10:01:26 PM Try to convert steamid to steamid64
+01/07/2023 10:01:26 PM Converted steamid to steamid64
+01/07/2023 10:01:26 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 10:01:27 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198046750790 HTTP/1.1" 200 None
+01/07/2023 10:01:27 PM Try to convert steamid to steamid64
+01/07/2023 10:01:27 PM Converted steamid to steamid64
+01/07/2023 10:01:27 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 10:01:28 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198170617546 HTTP/1.1" 200 None
+01/07/2023 10:01:28 PM Try to convert steamid to steamid64
+01/07/2023 10:01:28 PM Converted steamid to steamid64
+01/07/2023 10:01:28 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 10:01:28 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198054411181 HTTP/1.1" 200 None
+01/07/2023 10:01:28 PM Try to convert steamid to steamid64
+01/07/2023 10:01:28 PM Converted steamid to steamid64
+01/07/2023 10:01:28 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 10:01:29 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198201012047 HTTP/1.1" 200 None
+01/07/2023 10:01:29 PM Try to convert steamid to steamid64
+01/07/2023 10:01:29 PM Converted steamid to steamid64
+01/07/2023 10:01:29 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 10:01:30 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198089935813 HTTP/1.1" 200 None
+01/07/2023 10:01:30 PM Try to convert steamid to steamid64
+01/07/2023 10:01:30 PM Converted steamid to steamid64
+01/07/2023 10:01:30 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 10:01:30 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198020638953 HTTP/1.1" 200 None
+01/07/2023 10:01:30 PM Try to convert steamid to steamid64
+01/07/2023 10:01:30 PM Converted steamid to steamid64
+01/07/2023 10:01:30 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 10:01:31 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198116887316 HTTP/1.1" 200 None
+01/07/2023 10:01:31 PM Try to convert steamid to steamid64
+01/07/2023 10:01:31 PM Converted steamid to steamid64
+01/07/2023 10:01:31 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 10:01:31 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198068954524 HTTP/1.1" 200 None
+01/07/2023 10:01:31 PM Try to convert steamid to steamid64
+01/07/2023 10:01:31 PM Converted steamid to steamid64
+01/07/2023 10:01:31 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 10:01:32 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198057402121 HTTP/1.1" 200 None
+01/07/2023 10:01:32 PM Try to create all labels and buttons dynamicly
+01/07/2023 10:01:32 PM All labels and buttons got successfully created
+01/07/2023 10:01:35 PM Try to add player to friends list
+01/07/2023 10:01:35 PM Friend was added to friends.txt
+01/07/2023 10:01:36 PM Try to add player to friends list
+01/07/2023 10:01:36 PM Friend was added to friends.txt
+01/07/2023 10:01:39 PM Try to add player to friends list
+01/07/2023 10:01:39 PM Friend was added to friends.txt
+01/07/2023 10:01:40 PM Try to add player to friends list
+01/07/2023 10:01:40 PM Friend was added to friends.txt
+01/07/2023 11:02:22 PM Try to destroy previouse widgets
+01/07/2023 11:02:22 PM Widgets from previouse run got destroyed
+01/07/2023 11:02:22 PM Try to check whether a player is marked as friend
+01/07/2023 11:02:22 PM Friend was found and removed from list
+01/07/2023 11:02:22 PM Friend was found and removed from list
+01/07/2023 11:02:22 PM Friend was found and removed from list
+01/07/2023 11:02:22 PM Players were found
+01/07/2023 11:02:22 PM Try to get faceit data for each player
+01/07/2023 11:02:22 PM Try to convert steamid to steamid64
+01/07/2023 11:02:22 PM Converted steamid to steamid64
+01/07/2023 11:02:22 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 11:02:22 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198103813147 HTTP/1.1" 200 None
+01/07/2023 11:02:22 PM Try to convert steamid to steamid64
+01/07/2023 11:02:22 PM Converted steamid to steamid64
+01/07/2023 11:02:22 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 11:02:23 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561197975232849 HTTP/1.1" 200 None
+01/07/2023 11:02:23 PM Try to convert steamid to steamid64
+01/07/2023 11:02:23 PM Converted steamid to steamid64
+01/07/2023 11:02:23 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 11:02:23 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198094710663 HTTP/1.1" 200 None
+01/07/2023 11:02:23 PM Try to convert steamid to steamid64
+01/07/2023 11:02:23 PM Converted steamid to steamid64
+01/07/2023 11:02:23 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 11:02:24 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198202181775 HTTP/1.1" 200 None
+01/07/2023 11:02:24 PM Try to convert steamid to steamid64
+01/07/2023 11:02:24 PM Converted steamid to steamid64
+01/07/2023 11:02:24 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 11:02:25 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198013599615 HTTP/1.1" 200 None
+01/07/2023 11:02:25 PM Try to convert steamid to steamid64
+01/07/2023 11:02:25 PM Converted steamid to steamid64
+01/07/2023 11:02:25 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 11:02:25 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198257059594 HTTP/1.1" 200 None
+01/07/2023 11:02:25 PM Try to convert steamid to steamid64
+01/07/2023 11:02:25 PM Converted steamid to steamid64
+01/07/2023 11:02:25 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/07/2023 11:02:26 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198035617691 HTTP/1.1" 200 None
+01/07/2023 11:02:26 PM Try to create all labels and buttons dynamicly
+01/07/2023 11:02:26 PM All labels and buttons got successfully created
+01/08/2023 06:30:29 PM Logger was successfully created
+01/08/2023 06:30:29 PM Window was successfully build
+01/08/2023 06:30:34 PM Try to destroy previouse widgets
+01/08/2023 06:30:34 PM Widgets from previouse run got destroyed
+01/08/2023 06:30:34 PM Try to check whether a player is marked as friend
+01/08/2023 06:30:34 PM Friend was found and removed from list
+01/08/2023 06:30:34 PM Friend was found and removed from list
+01/08/2023 06:30:34 PM Friend was found and removed from list
+01/08/2023 06:30:34 PM Players were found
+01/08/2023 06:30:34 PM Try to get faceit data for each player
+01/08/2023 06:30:34 PM Try to convert steamid to steamid64
+01/08/2023 06:30:34 PM Converted steamid to steamid64
+01/08/2023 06:30:34 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/08/2023 06:30:34 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198832717511 HTTP/1.1" 404 None
+01/08/2023 06:30:34 PM Player with no faceit account was found. Elo got set to 0
+01/08/2023 06:30:34 PM Try to convert steamid to steamid64
+01/08/2023 06:30:34 PM Converted steamid to steamid64
+01/08/2023 06:30:34 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/08/2023 06:30:35 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199181222932 HTTP/1.1" 200 None
+01/08/2023 06:30:35 PM Try to convert steamid to steamid64
+01/08/2023 06:30:35 PM Converted steamid to steamid64
+01/08/2023 06:30:35 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/08/2023 06:30:35 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198107210108 HTTP/1.1" 200 None
+01/08/2023 06:30:35 PM Try to convert steamid to steamid64
+01/08/2023 06:30:35 PM Converted steamid to steamid64
+01/08/2023 06:30:35 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/08/2023 06:30:36 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199056197127 HTTP/1.1" 200 None
+01/08/2023 06:30:36 PM Try to convert steamid to steamid64
+01/08/2023 06:30:36 PM Converted steamid to steamid64
+01/08/2023 06:30:36 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/08/2023 06:30:37 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199404509422 HTTP/1.1" 200 None
+01/08/2023 06:30:37 PM Try to convert steamid to steamid64
+01/08/2023 06:30:37 PM Converted steamid to steamid64
+01/08/2023 06:30:37 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/08/2023 06:30:37 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198046461562 HTTP/1.1" 404 None
+01/08/2023 06:30:37 PM Player with no faceit account was found. Elo got set to 0
+01/08/2023 06:30:37 PM Try to convert steamid to steamid64
+01/08/2023 06:30:37 PM Converted steamid to steamid64
+01/08/2023 06:30:37 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/08/2023 06:30:38 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198821586040 HTTP/1.1" 200 None
+01/08/2023 06:30:38 PM Try to create all labels and buttons dynamicly
+01/08/2023 06:30:38 PM All labels and buttons got successfully created
+01/14/2023 03:33:23 PM Logger was successfully created
+01/14/2023 03:33:23 PM Window was successfully build
+01/14/2023 03:33:24 PM Try to destroy previouse widgets
+01/14/2023 03:33:24 PM Widgets from previouse run got destroyed
+01/14/2023 03:33:24 PM Try to check whether a player is marked as friend
+01/14/2023 03:33:24 PM Friend was found and removed from list
+01/14/2023 03:33:24 PM Friend was found and removed from list
+01/14/2023 03:33:24 PM Players were found
+01/14/2023 03:33:24 PM Try to get faceit data for each player
+01/14/2023 03:33:24 PM Try to convert steamid to steamid64
+01/14/2023 03:33:24 PM Converted steamid to steamid64
+01/14/2023 03:33:24 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/14/2023 03:33:25 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199151689046 HTTP/1.1" 200 None
+01/14/2023 03:33:25 PM Try to convert steamid to steamid64
+01/14/2023 03:33:25 PM Converted steamid to steamid64
+01/14/2023 03:33:25 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/14/2023 03:33:26 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198872782754 HTTP/1.1" 200 None
+01/14/2023 03:33:26 PM Try to convert steamid to steamid64
+01/14/2023 03:33:26 PM Converted steamid to steamid64
+01/14/2023 03:33:26 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/14/2023 03:33:26 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198105281394 HTTP/1.1" 200 None
+01/14/2023 03:33:26 PM Try to convert steamid to steamid64
+01/14/2023 03:33:26 PM Converted steamid to steamid64
+01/14/2023 03:33:26 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/14/2023 03:33:27 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198955945748 HTTP/1.1" 200 None
+01/14/2023 03:33:27 PM Try to convert steamid to steamid64
+01/14/2023 03:33:27 PM Converted steamid to steamid64
+01/14/2023 03:33:27 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/14/2023 03:33:27 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198098661525 HTTP/1.1" 200 None
+01/14/2023 03:33:27 PM Try to convert steamid to steamid64
+01/14/2023 03:33:27 PM Converted steamid to steamid64
+01/14/2023 03:33:27 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/14/2023 03:33:28 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198407241872 HTTP/1.1" 200 None
+01/14/2023 03:33:28 PM Try to convert steamid to steamid64
+01/14/2023 03:33:28 PM Converted steamid to steamid64
+01/14/2023 03:33:28 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/14/2023 03:33:28 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198575429301 HTTP/1.1" 200 None
+01/14/2023 03:33:28 PM Try to convert steamid to steamid64
+01/14/2023 03:33:28 PM Converted steamid to steamid64
+01/14/2023 03:33:28 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/14/2023 03:33:29 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198237250196 HTTP/1.1" 200 None
+01/14/2023 03:33:29 PM Try to create all labels and buttons dynamicly
+01/14/2023 03:33:29 PM All labels and buttons got successfully created
+01/14/2023 03:33:33 PM Try to add player to friends list
+01/14/2023 03:33:33 PM Friend was added to friends.txt
+01/14/2023 03:33:35 PM Try to add player to friends list
+01/14/2023 03:33:35 PM Friend was added to friends.txt
+01/14/2023 04:04:59 PM Try to destroy previouse widgets
+01/14/2023 04:04:59 PM Widgets from previouse run got destroyed
+01/14/2023 04:04:59 PM Try to check whether a player is marked as friend
+01/14/2023 04:04:59 PM Friend was found and removed from list
+01/14/2023 04:04:59 PM Friend was found and removed from list
+01/14/2023 04:04:59 PM Friend was found and removed from list
+01/14/2023 04:04:59 PM Friend was found and removed from list
+01/14/2023 04:04:59 PM Players were found
+01/14/2023 04:04:59 PM Try to get faceit data for each player
+01/14/2023 04:04:59 PM Try to convert steamid to steamid64
+01/14/2023 04:04:59 PM Converted steamid to steamid64
+01/14/2023 04:04:59 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/14/2023 04:05:00 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198005141546 HTTP/1.1" 200 None
+01/14/2023 04:05:00 PM Try to convert steamid to steamid64
+01/14/2023 04:05:00 PM Converted steamid to steamid64
+01/14/2023 04:05:00 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/14/2023 04:05:00 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198333109183 HTTP/1.1" 200 None
+01/14/2023 04:05:00 PM Try to convert steamid to steamid64
+01/14/2023 04:05:00 PM Converted steamid to steamid64
+01/14/2023 04:05:00 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/14/2023 04:05:01 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198825744113 HTTP/1.1" 200 None
+01/14/2023 04:05:01 PM Try to convert steamid to steamid64
+01/14/2023 04:05:01 PM Converted steamid to steamid64
+01/14/2023 04:05:01 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/14/2023 04:05:01 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198087206710 HTTP/1.1" 200 None
+01/14/2023 04:05:01 PM Try to convert steamid to steamid64
+01/14/2023 04:05:01 PM Converted steamid to steamid64
+01/14/2023 04:05:01 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/14/2023 04:05:02 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198041853874 HTTP/1.1" 200 None
+01/14/2023 04:05:02 PM Try to convert steamid to steamid64
+01/14/2023 04:05:02 PM Converted steamid to steamid64
+01/14/2023 04:05:02 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/14/2023 04:05:02 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198858439478 HTTP/1.1" 200 None
+01/14/2023 04:05:02 PM Try to create all labels and buttons dynamicly
+01/14/2023 04:05:02 PM All labels and buttons got successfully created
+01/15/2023 09:34:58 PM Logger was successfully created
+01/15/2023 09:34:58 PM Window was successfully build
+01/15/2023 09:35:01 PM Try to destroy previouse widgets
+01/15/2023 09:35:01 PM Widgets from previouse run got destroyed
+01/15/2023 09:35:01 PM Try to check whether a player is marked as friend
+01/15/2023 09:35:01 PM Friend was found and removed from list
+01/15/2023 09:35:01 PM Players were found
+01/15/2023 09:35:01 PM Try to get faceit data for each player
+01/15/2023 09:35:01 PM Try to convert steamid to steamid64
+01/15/2023 09:35:01 PM Converted steamid to steamid64
+01/15/2023 09:35:01 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 09:35:01 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198061174035 HTTP/1.1" 404 None
+01/15/2023 09:35:01 PM Player with no faceit account was found. Elo got set to 0
+01/15/2023 09:35:01 PM Try to convert steamid to steamid64
+01/15/2023 09:35:01 PM Converted steamid to steamid64
+01/15/2023 09:35:01 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 09:35:02 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198024678877 HTTP/1.1" 200 None
+01/15/2023 09:35:02 PM Try to convert steamid to steamid64
+01/15/2023 09:35:02 PM Converted steamid to steamid64
+01/15/2023 09:35:02 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 09:35:03 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198850347058 HTTP/1.1" 200 None
+01/15/2023 09:35:03 PM Try to convert steamid to steamid64
+01/15/2023 09:35:03 PM Converted steamid to steamid64
+01/15/2023 09:35:03 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 09:35:04 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198027293150 HTTP/1.1" 200 None
+01/15/2023 09:35:04 PM Try to convert steamid to steamid64
+01/15/2023 09:35:04 PM Converted steamid to steamid64
+01/15/2023 09:35:04 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 09:35:04 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199008333530 HTTP/1.1" 200 None
+01/15/2023 09:35:04 PM Try to convert steamid to steamid64
+01/15/2023 09:35:04 PM Converted steamid to steamid64
+01/15/2023 09:35:04 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 09:35:05 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199191871118 HTTP/1.1" 200 None
+01/15/2023 09:35:05 PM Try to convert steamid to steamid64
+01/15/2023 09:35:05 PM Converted steamid to steamid64
+01/15/2023 09:35:05 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 09:35:05 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199144469050 HTTP/1.1" 200 None
+01/15/2023 09:35:05 PM Try to convert steamid to steamid64
+01/15/2023 09:35:05 PM Converted steamid to steamid64
+01/15/2023 09:35:05 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 09:35:06 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198983258169 HTTP/1.1" 200 None
+01/15/2023 09:35:06 PM Try to convert steamid to steamid64
+01/15/2023 09:35:06 PM Converted steamid to steamid64
+01/15/2023 09:35:06 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 09:35:06 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198317367143 HTTP/1.1" 200 None
+01/15/2023 09:35:06 PM Try to create all labels and buttons dynamicly
+01/15/2023 09:35:06 PM All labels and buttons got successfully created
+01/15/2023 10:14:47 PM Try to destroy previouse widgets
+01/15/2023 10:14:48 PM Widgets from previouse run got destroyed
+01/15/2023 10:14:48 PM Try to check whether a player is marked as friend
+01/15/2023 10:14:48 PM Friend was found and removed from list
+01/15/2023 10:14:48 PM Players were found
+01/15/2023 10:14:48 PM Try to get faceit data for each player
+01/15/2023 10:14:48 PM Try to convert steamid to steamid64
+01/15/2023 10:14:48 PM Converted steamid to steamid64
+01/15/2023 10:14:48 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 10:14:48 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561197971859637 HTTP/1.1" 200 None
+01/15/2023 10:14:48 PM Try to convert steamid to steamid64
+01/15/2023 10:14:48 PM Converted steamid to steamid64
+01/15/2023 10:14:48 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 10:14:49 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198831115198 HTTP/1.1" 200 None
+01/15/2023 10:14:49 PM Try to convert steamid to steamid64
+01/15/2023 10:14:49 PM Converted steamid to steamid64
+01/15/2023 10:14:49 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 10:14:49 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198427198117 HTTP/1.1" 200 None
+01/15/2023 10:14:49 PM Try to convert steamid to steamid64
+01/15/2023 10:14:49 PM Converted steamid to steamid64
+01/15/2023 10:14:49 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 10:14:50 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198022957412 HTTP/1.1" 200 None
+01/15/2023 10:14:50 PM Try to convert steamid to steamid64
+01/15/2023 10:14:50 PM Converted steamid to steamid64
+01/15/2023 10:14:50 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 10:14:50 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198445316272 HTTP/1.1" 404 None
+01/15/2023 10:14:50 PM Player with no faceit account was found. Elo got set to 0
+01/15/2023 10:14:50 PM Try to convert steamid to steamid64
+01/15/2023 10:14:50 PM Converted steamid to steamid64
+01/15/2023 10:14:50 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 10:14:51 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198027293150 HTTP/1.1" 200 None
+01/15/2023 10:14:51 PM Try to convert steamid to steamid64
+01/15/2023 10:14:51 PM Converted steamid to steamid64
+01/15/2023 10:14:51 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 10:14:51 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198061174035 HTTP/1.1" 404 None
+01/15/2023 10:14:51 PM Player with no faceit account was found. Elo got set to 0
+01/15/2023 10:14:51 PM Try to convert steamid to steamid64
+01/15/2023 10:14:51 PM Converted steamid to steamid64
+01/15/2023 10:14:51 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 10:14:52 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198357368937 HTTP/1.1" 200 None
+01/15/2023 10:14:52 PM Try to convert steamid to steamid64
+01/15/2023 10:14:52 PM Converted steamid to steamid64
+01/15/2023 10:14:52 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 10:14:52 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199199526898 HTTP/1.1" 200 None
+01/15/2023 10:14:52 PM Try to create all labels and buttons dynamicly
+01/15/2023 10:14:53 PM All labels and buttons got successfully created
+01/15/2023 11:13:48 PM Try to destroy previouse widgets
+01/15/2023 11:13:48 PM Widgets from previouse run got destroyed
+01/15/2023 11:13:48 PM Try to check whether a player is marked as friend
+01/15/2023 11:13:48 PM Friend was found and removed from list
+01/15/2023 11:13:48 PM Players were found
+01/15/2023 11:13:48 PM Try to get faceit data for each player
+01/15/2023 11:13:48 PM Try to convert steamid to steamid64
+01/15/2023 11:13:48 PM Converted steamid to steamid64
+01/15/2023 11:13:48 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 11:13:48 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561197963453095 HTTP/1.1" 200 None
+01/15/2023 11:13:48 PM Try to convert steamid to steamid64
+01/15/2023 11:13:48 PM Converted steamid to steamid64
+01/15/2023 11:13:48 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 11:13:49 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561197981623479 HTTP/1.1" 200 None
+01/15/2023 11:13:49 PM Try to convert steamid to steamid64
+01/15/2023 11:13:49 PM Converted steamid to steamid64
+01/15/2023 11:13:49 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 11:13:49 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198073471642 HTTP/1.1" 200 None
+01/15/2023 11:13:49 PM Try to convert steamid to steamid64
+01/15/2023 11:13:49 PM Converted steamid to steamid64
+01/15/2023 11:13:49 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 11:13:50 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198006911206 HTTP/1.1" 200 None
+01/15/2023 11:13:50 PM Try to convert steamid to steamid64
+01/15/2023 11:13:50 PM Converted steamid to steamid64
+01/15/2023 11:13:50 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 11:13:50 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198013205575 HTTP/1.1" 200 None
+01/15/2023 11:13:50 PM Try to convert steamid to steamid64
+01/15/2023 11:13:50 PM Converted steamid to steamid64
+01/15/2023 11:13:50 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 11:13:51 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561197998849180 HTTP/1.1" 200 None
+01/15/2023 11:13:51 PM Try to convert steamid to steamid64
+01/15/2023 11:13:51 PM Converted steamid to steamid64
+01/15/2023 11:13:51 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 11:13:52 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198061174035 HTTP/1.1" 404 None
+01/15/2023 11:13:52 PM Player with no faceit account was found. Elo got set to 0
+01/15/2023 11:13:52 PM Try to convert steamid to steamid64
+01/15/2023 11:13:52 PM Converted steamid to steamid64
+01/15/2023 11:13:52 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 11:13:52 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198076661412 HTTP/1.1" 200 None
+01/15/2023 11:13:52 PM Try to convert steamid to steamid64
+01/15/2023 11:13:52 PM Converted steamid to steamid64
+01/15/2023 11:13:52 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/15/2023 11:13:53 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198149902630 HTTP/1.1" 200 None
+01/15/2023 11:13:53 PM Try to create all labels and buttons dynamicly
+01/15/2023 11:13:53 PM All labels and buttons got successfully created
+01/16/2023 07:39:06 PM Logger was successfully created
+01/16/2023 07:39:06 PM Window was successfully build
+01/16/2023 07:39:10 PM Try to destroy previouse widgets
+01/16/2023 07:39:10 PM Widgets from previouse run got destroyed
+01/16/2023 07:39:10 PM Try to check whether a player is marked as friend
+01/16/2023 07:39:10 PM Friend was found and removed from list
+01/16/2023 07:39:10 PM Friend was found and removed from list
+01/16/2023 07:39:10 PM Friend was found and removed from list
+01/16/2023 07:39:10 PM Players were found
+01/16/2023 07:39:10 PM Try to get faceit data for each player
+01/16/2023 07:39:10 PM Try to convert steamid to steamid64
+01/16/2023 07:39:10 PM Converted steamid to steamid64
+01/16/2023 07:39:10 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/16/2023 07:39:11 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198800315682 HTTP/1.1" 200 None
+01/16/2023 07:39:11 PM Try to convert steamid to steamid64
+01/16/2023 07:39:11 PM Converted steamid to steamid64
+01/16/2023 07:39:11 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/16/2023 07:39:12 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198303345927 HTTP/1.1" 404 None
+01/16/2023 07:39:12 PM Player with no faceit account was found. Elo got set to 0
+01/16/2023 07:39:12 PM Try to convert steamid to steamid64
+01/16/2023 07:39:12 PM Converted steamid to steamid64
+01/16/2023 07:39:12 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/16/2023 07:39:12 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198062140576 HTTP/1.1" 200 None
+01/16/2023 07:39:12 PM Try to convert steamid to steamid64
+01/16/2023 07:39:12 PM Converted steamid to steamid64
+01/16/2023 07:39:12 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/16/2023 07:39:13 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198403217570 HTTP/1.1" 200 None
+01/16/2023 07:39:13 PM Try to convert steamid to steamid64
+01/16/2023 07:39:13 PM Converted steamid to steamid64
+01/16/2023 07:39:13 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/16/2023 07:39:14 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198185210027 HTTP/1.1" 200 None
+01/16/2023 07:39:14 PM Try to convert steamid to steamid64
+01/16/2023 07:39:14 PM Converted steamid to steamid64
+01/16/2023 07:39:14 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/16/2023 07:39:15 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199098608218 HTTP/1.1" 404 None
+01/16/2023 07:39:15 PM Player with no faceit account was found. Elo got set to 0
+01/16/2023 07:39:15 PM Try to convert steamid to steamid64
+01/16/2023 07:39:15 PM Converted steamid to steamid64
+01/16/2023 07:39:15 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/16/2023 07:39:16 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198301013610 HTTP/1.1" 200 None
+01/16/2023 07:39:16 PM Try to create all labels and buttons dynamicly
+01/16/2023 07:39:16 PM All labels and buttons got successfully created

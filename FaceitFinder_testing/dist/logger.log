@@ -1,0 +1,54 @@
+01/02/2023 04:40:21 PM Logger was successfully created
+01/02/2023 04:40:21 PM Window was successfully build
+01/02/2023 04:40:23 PM Try to destroy previouse widgets
+01/02/2023 04:40:23 PM Widgets from previouse run got destroyed
+01/02/2023 04:40:23 PM Try to check whether a player is marked as friend
+01/02/2023 04:40:23 PM Players were found
+01/02/2023 04:40:23 PM Try to get faceit data for each player
+01/02/2023 04:40:23 PM Try to convert steamid to steamid64
+01/02/2023 04:40:23 PM Converted steamid to steamid64
+01/02/2023 04:40:23 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:40:24 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198262924976 HTTP/1.1" 200 None
+01/02/2023 04:40:24 PM Try to convert steamid to steamid64
+01/02/2023 04:40:24 PM Converted steamid to steamid64
+01/02/2023 04:40:24 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:40:25 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198069116345 HTTP/1.1" 404 None
+01/02/2023 04:40:25 PM Player with no faceit account was found. Elo got set to 0
+01/02/2023 04:40:25 PM Try to convert steamid to steamid64
+01/02/2023 04:40:25 PM Converted steamid to steamid64
+01/02/2023 04:40:25 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:40:26 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198289336306 HTTP/1.1" 200 None
+01/02/2023 04:40:26 PM Try to convert steamid to steamid64
+01/02/2023 04:40:26 PM Converted steamid to steamid64
+01/02/2023 04:40:26 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:40:26 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199224644363 HTTP/1.1" 404 None
+01/02/2023 04:40:26 PM Player with no faceit account was found. Elo got set to 0
+01/02/2023 04:40:26 PM Try to convert steamid to steamid64
+01/02/2023 04:40:26 PM Converted steamid to steamid64
+01/02/2023 04:40:26 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:40:27 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198376616673 HTTP/1.1" 200 None
+01/02/2023 04:40:27 PM Try to convert steamid to steamid64
+01/02/2023 04:40:27 PM Converted steamid to steamid64
+01/02/2023 04:40:27 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:40:28 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199400867383 HTTP/1.1" 404 None
+01/02/2023 04:40:28 PM Player with no faceit account was found. Elo got set to 0
+01/02/2023 04:40:28 PM Try to convert steamid to steamid64
+01/02/2023 04:40:28 PM Converted steamid to steamid64
+01/02/2023 04:40:28 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:40:28 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199426475615 HTTP/1.1" 404 None
+01/02/2023 04:40:28 PM Player with no faceit account was found. Elo got set to 0
+01/02/2023 04:40:28 PM Try to convert steamid to steamid64
+01/02/2023 04:40:28 PM Converted steamid to steamid64
+01/02/2023 04:40:28 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:40:29 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199397846531 HTTP/1.1" 200 None
+01/02/2023 04:40:29 PM Try to convert steamid to steamid64
+01/02/2023 04:40:29 PM Converted steamid to steamid64
+01/02/2023 04:40:29 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:40:29 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561198814185680 HTTP/1.1" 404 None
+01/02/2023 04:40:29 PM Player with no faceit account was found. Elo got set to 0
+01/02/2023 04:40:29 PM Try to convert steamid to steamid64
+01/02/2023 04:40:29 PM Converted steamid to steamid64
+01/02/2023 04:40:29 PM Starting new HTTPS connection (1): open.faceit.com:443
+01/02/2023 04:40:30 PM https://open.faceit.com:443 "GET /data/v4/players?game=csgo&game_player_id=76561199159353400 HTTP/1.1" 200 None
+01/02/2023 04:40:30 PM Try to create all labels and buttons dynamicly
+01/02/2023 04:40:30 PM All labels and buttons got successfully created

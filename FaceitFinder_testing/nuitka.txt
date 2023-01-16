@@ -1,0 +1,1 @@
+nuitka FaceitFinder.py --output-dir=out --onefile --enable-plugin=tk-inter --disable-console

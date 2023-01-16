@@ -1,0 +1,38 @@
+# userid name uniqueid connected ping loss state rate
+# 3 2 "Sparkyy" STEAM_1:1:121107901 00:44 47 0 active 786432
+# 6 5 "BlaZe" STEAM_1:1:130224991 00:44 31 0 active 786432
+# 7 6 "Sommerw1nd" STEAM_1:1:244051322 00:44 34 0 active 196608
+# 8 7 "Maximus" STEAM_1:0:440480000 00:44 44 0 active 20480
+# 9 8 "SquecKy" STEAM_1:1:119531588 00:44 66 0 active 196608
+# 10 9 "Luc" STEAM_1:0:8961508 00:44 61 0 active 786432wdw
+# 11 10 "Kr4zzed" STEAM_1:1:485070342 00:44 48 0 active 786432
+# 12 11 "M0nCHu ッ" STEAM_1:0:23793861 00:44 79 0 active 786432
+# 13 12 "❤MaTtYxD❤" STEAM_1:0:454707917 00:44 84 0 active 786432
+# 14 13 "𝓐𝓬𝓴𝓮𝓻" STEAM_1:1:101841244 00:44 62 0 active 196608
+#end
+
+Einer hat kein faceit accoutn und failt deshalb
+
+# userid name uniqueid connected ping loss state rate
+#  3 2 "ART" STEAM_1:1:484513999 21:19 64 0 active 786432
+#  6 5 "Bauernbrot" STEAM_1:0:151329624 21:19 63 0 active 786432
+#  7 6 "Malcherek" STEAM_1:1:548296369 21:19 52 0 active 786432
+#  8 7 "[PPG]-Renegade" STEAM_1:1:125442889 21:19 82 0 active 196608
+#  9 8 "EiVR0iL" STEAM_1:1:146875723 21:19 65 0 active 196608
+# 10 9 "fimulya" STEAM_1:0:572735604 21:19 78 0 active 786432
+# 11 10 "240хз" STEAM_1:0:187864636 21:19 81 0 active 196608
+# 12 11 "baidarka" STEAM_1:1:232553128 21:19 80 0 active 786432
+# 13 12 "Rob𐂃𐂃" STEAM_1:1:124119695 21:19 68 0 active 196608
+# 14 13 "CFC_SPA" STEAM_1:0:85875159 21:18 89 0 active 786432
+
+
+#  3 2 "Einsatzleiter" STEAM_1:1:54425308 07:08 62 0 active 786432
+#  6 5 "MaTeO" STEAM_1:1:211679502 07:08 74 0 active 196608
+#  7 6 "Bauernbrot" STEAM_1:0:151329624 07:08 62 0 active 786432
+#  9 8 "One1ce" STEAM_1:1:30688306 07:08 78 0 active 196608
+# 10 9 "明る名" STEAM_1:1:155745364 07:08 87 0 active 786432
+# 11 10 "smr" STEAM_1:1:718166458 07:08 97 0 active 196608
+# 12 11 "BRETT" STEAM_1:1:445891370 07:08 83 0 active 786432
+# 13 12 "SimpiN :3" STEAM_1:1:228082133 07:07 71 0 active 786432
+# 14 13 "clown" STEAM_1:1:429820867 07:07 84 0 active 196608
+#end
